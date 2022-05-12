@@ -1,0 +1,183 @@
+.container-first {
+    height: 100px;
+    background-color:black;
+    justify-content: center;
+    display: flex;
+   
+}
+
+.top-left{
+    width:450px;
+    margin-top: 10px;
+}
+
+.top-right{
+    width:450px;
+    margin-top:10px;
+    display:flex;
+    gap:40px;
+}
+
+
+
+p {
+    color:white;
+}
+
+.items{
+    padding-left: 0px;
+    
+   
+}
+
+
+
+
+.container-second {
+    height:250px;
+    background-color:#1F2937;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button-2nd-container{
+    border: 1px solid white;
+    background-color:rgb(41, 165, 206);
+}
+
+.bottom-left{
+    background-color:darkblue;
+    height:170px;
+    width:450px;
+    padding: 10px;
+}
+
+.bottom-right{
+    background-color: grey;
+    height:170px;
+    width:450px;
+    padding: 10px;
+    display:flex;
+   
+}
+
+.p-b-r {
+    padding-left:130px;
+    padding-top:35px;
+}
+
+.first-b-l {
+    font-size: 28px;
+    padding-top: 0px;
+}
+
+button {
+    font-weight: 100;
+    color:white;
+    background-color:blue;
+    border-radius: 5px;
+    
+}
+
+.container-third {
+    height:300px;
+    background-color: black;
+    
+}
+
+.top-div-third-container {
+    display:flex;
+    justify-content: center;
+}
+
+.t-d-p {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.sec-div-third-container {
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+
+.square {
+    height:100px;
+    width:100px;
+    border:3px solid blueviolet;
+    border-radius: 15px;
+}
+
+.third-div-third-container {
+    display:flex;
+    gap:23px;
+    justify-content: center;
+    
+}   
+
+.square2 {
+    height:80px;
+    width:100px;
+    justify-content: center;
+    border-radius: 15px;
+    
+    
+}
+.para-in-square2 {
+    padding-top:-10px;
+    padding-left:8px;
+}
+
+
+.container-fourth {
+    height:220px;
+    background-color: grey;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    
+}
+
+.container-4th-first-div {
+    
+}
+
+.container-4th-second-div {
+    padding-top:22px;
+   
+}
+
+.second-para-container-4th {
+    font-size: 15px;
+
+}
+
+.container-fifth {
+    background-color: black;
+    height:180px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.container-fifth-1st-div {
+    color:white;
+    background-color:blue;
+    height:120px;
+    width:700px;
+    border-radius: 15px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:50px;
+}
+
+.button-fifth-container {
+    border: 1px solid white;
+    background-color:rgb(41, 165, 206);
+}
+
