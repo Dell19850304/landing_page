@@ -181,3 +181,17 @@ button {
     background-color:rgb(41, 165, 206);
 }
 
+
+.footer-div {
+    display:flex;
+    justify-content: center;
+    
+}
+
+.footer {
+    height:50px;
+    background-color: slategray;
+    padding-bottom: 10px;
+    
+}
+
